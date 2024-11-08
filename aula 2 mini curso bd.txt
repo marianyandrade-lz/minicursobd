@@ -1,0 +1,10 @@
+-> comando de registros de dados
+create 
+update
+select
+
+-> comando referente as tabelas
+
+alter table
+create table
+drop table
